@@ -21,7 +21,7 @@ Ensure you have Python 3.7 or higher installed. Install the required dependencie
 
 1. Clone the repository and navigate to the project directory:
 
-   git clone https://github.com/your-username/rags-text-generation-api.git
+   git clone https://github.com/Arshi81099/LLM-RAGs.git
    cd rags-text-generation-api
 
 2. Install the required dependencies:

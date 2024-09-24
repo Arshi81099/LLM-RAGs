@@ -66,7 +66,7 @@ curl -X POST http://127.0.0.1:5000/generate \
 
 ## Example Response
 {
-  "generated_text": "Once upon a time in a faraway land, there was a peaceful village hidden deep within the forest. The villagers were kind and lived harmoniously with nature until one fateful day when..."
+  "generated_text": "Once upon a time in a faraway land, the world was filled with people who were not of any kind. They had no idea what they wanted to do or how much money it would cost them for their services and that there might be other ways out.\"\n\"I don't know if you're right,\" said Mr Taylor as he looked at his wife's face from behind her glasses. \"But I'm sure we'll find some way back home where our children will have more freedom than ever"
 }
 
 
@@ -78,4 +78,9 @@ You can modify the behavior of text generation by adjusting the following parame
 - top_k: Restricts the token selection to the top k most probable next tokens.
 - top_p: Uses nucleus sampling, where the cumulative probability of the selected tokens is p.
 - repetition_penalty: A value greater than 1.0 penalizes repetitive tokens in the output.
+
+  
+<img width="1101" alt="Screenshot 2024-09-24 at 2 42 46 PM" src="https://github.com/user-attachments/assets/51d2cb0c-f5ad-4f24-aa99-3ce8ef97017e">
+
+
 
